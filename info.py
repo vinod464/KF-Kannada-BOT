@@ -112,9 +112,9 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 
 # Token Verification Info :
-VERIFY = bool(environ.get('VERIFY', False))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', '')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '')
+VERIFY = bool(environ.get('VERIFY', Yes))
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'mdiskshortner.link')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'f5c07fde584093adc920417d63c17fd28dbf713a')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', '')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
@@ -126,8 +126,8 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True)) # Set True Or False
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'ba1103ff3500b60d006da49756ebafff3b8f6550')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'nowshort.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '2466063c23826f5a45b9418a8b5932b21820df08')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/KF_Links/231') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
 
 
@@ -196,6 +196,7 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
