@@ -244,9 +244,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b> Join - https://t.me/KFCINEMAS
+    CAPTION = """<b> 📂 ғɪʟᴇɴᴀᴍᴇ : @Kannada_Cineflix {file_name}
 
-<b>⚙️ Join : @KFCINEMAS</b>""" 
+<b>⚙️ Join : https://t.me/+6uJKGXH6cCgzZjE1</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -752,3 +752,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
